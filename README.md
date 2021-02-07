@@ -21,7 +21,7 @@ This extension identifies individual Jest tests and puts a "Run|Debug" menu abov
 
 ### Coverage
 
-To see the coverage my finding the created index.html file in the coverage/lcov-report folder. Opne that file using the Liver Server extension in VS Code.
+To see the coverage my finding the created index.html file in the coverage/lcov-report folder. Open that file using the Liver Server extension in VS Code.
 
 ### Notes
 - It is best not to push changes to GitHub until you know your tests pass
