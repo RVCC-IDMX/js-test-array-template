@@ -20,7 +20,7 @@ test('return a copy of an array', () => {
   expect(makeArrayCopy(['a','b','c'])).toEqual(['a','b','c']);
 });
 
-test('return a copy of an array', () => {
+test('take off last element and return string', () => {
   const arr = ['a', 'b', 'c'];
   const str = getLastElement(arr);
   
